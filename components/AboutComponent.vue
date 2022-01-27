@@ -1,16 +1,16 @@
 <template>
   <div>
     <about-description></about-description>
-    <h2 class="h1 mb-4">Work experience</h2>
+    <h2 class="h1 mb-4">Experiencia laboral</h2>
     <div class="row mb-4">
       <about-skill
-        skill="Graphic Designer"
-        desc="From social media to flyers. Set the visual tone for brands in digital and print media."
+        skill="Diseñador gráfico"
+        desc="Desde las redes sociales hasta los folletos. Marco el tono visual de las marcas en los medios digitales e impresos."
         svg-icon="#stack-1"
       ></about-skill>
       <about-skill
-        skill="Web Designer"
-        desc="Wireframing and prototyping. Create the website structure and the user interface."
+        skill="Diseñador Web"
+        desc="Wireframing y creación de prototipos. Crear la estructura del sitio web y la interfaz de usuario."
         svg-icon="#laptop-screen-1"
       ></about-skill>
     </div>

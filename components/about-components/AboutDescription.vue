@@ -10,10 +10,10 @@
       </div>
       <div class="col-sm-9">
         <h1 class="font-weight-normal">
-          Hello! I'm <strong>María Gabriela Pérez</strong>.
+          Hola! Soy <strong>Michael Gómez</strong>.
         </h1>
         <h2 class="h1 font-weight-normal mb-4">
-          I'm a <strong>Graphic Designer</strong> and Publicist.
+          Soy <strong>Diseñador Gráfico</strong>.
         </h2>
 
         <nuxt-content :document="description"></nuxt-content>
@@ -38,13 +38,13 @@
               <li class="list-inline-item">
                 <a
                   class="reset-anchor"
-                  href="https://www.instagram.com/mariaescribe/"
+                  href="https://www.instagram.com/dgmichaelg/"
                   target="blank"
                 >
                   <i class="fab fa-instagram"></i>
                 </a>
               </li>
-              <li class="list-inline-item">
+              <!-- <li class="list-inline-item">
                 <a
                   class="reset-anchor"
                   href="https://www.linkedin.com/in/mariaescribe/"
@@ -52,23 +52,14 @@
                 >
                   <i class="fab fa-linkedin"></i>
                 </a>
-              </li>
+              </li> -->
               <li class="list-inline-item">
                 <a
                   class="reset-anchor"
-                  href="https://www.behance.net/mariaescribe"
+                  href="https://www.behance.net/dgmichaelgcd12/projects"
                   target="blank"
                 >
                   <i class="fab fa-behance"></i>
-                </a>
-              </li>
-              <li class="list-inline-item">
-                <a
-                  class="reset-anchor"
-                  href="https://vm.tiktok.com/ZM83vpCnP/"
-                  target="blank"
-                >
-                  <i class="fab fa-tiktok"></i>
                 </a>
               </li>
             </ul>

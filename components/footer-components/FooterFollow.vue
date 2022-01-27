@@ -1,6 +1,6 @@
 <template>
   <div class="col-lg-4 mb-4 mb-lg-0">
-    <h2 class="h4 text-white mb-4">Let's chat!</h2>
+    <h2 class="h4 text-white mb-4">Hablemos!</h2>
     <ul class="list-inline">
       <div class="row text-white text-small">
         <div class="col-6">
@@ -8,14 +8,14 @@
             <li>
               <a
                 class="reset-anchor"
-                href="https://www.instagram.com/mariaescribe/"
+                href="https://www.instagram.com/dgmichaelg/"
                 target="blank"
                 translate="no"
               >
                 <i class="fab fa-instagram mr-2 mb-2 fa-fw"></i>Instagram
               </a>
             </li>
-            <li>
+            <!-- <li>
               <a
                 class="reset-anchor"
                 href="https://www.linkedin.com/in/mariaescribe/"
@@ -24,7 +24,7 @@
               >
                 <i class="fab fa-linkedin-in mr-2 mb-2 fa-fw"></i>Linkedin
               </a>
-            </li>
+            </li> -->
           </ul>
         </div>
         <div class="col-6">
@@ -32,21 +32,11 @@
             <li>
               <a
                 class="reset-anchor"
-                href="https://www.behance.net/mariaescribe"
+                href="https://www.behance.net/dgmichaelgcd12/projects"
                 target="blank"
                 translate="no"
               >
                 <i class="fab fa-behance mr-2 mb-2 fa-fw"></i>Behance
-              </a>
-            </li>
-            <li>
-              <a
-                class="reset-anchor"
-                href="https://vm.tiktok.com/ZM83vpCnP/"
-                target="blank"
-                translate="no"
-              >
-                <i class="fab fa-tiktok mr-2 mb-2 fa-fw"></i>TikTok
               </a>
             </li>
           </ul>

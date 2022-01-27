@@ -1,6 +1,6 @@
 <template>
   <div class="col-lg-5 position-sticky">
-    <h2>Concept</h2>
+    <h2>Concepto</h2>
     <p class="text-muted">{{ desc }}</p>
     <div class="p-4 bg-light mb-5">
       <ul class="list-unstyled mb-0">
@@ -12,19 +12,19 @@
         </li>
       </ul>
     </div>
-    <h2 class="h3 mb-4">Contact Me</h2>
+    <h2 class="h3 mb-4">Contacto</h2>
     <ul class="list-inline space-below">
       <li class="list-inline-item">
         <a
           class="reset-anchor social-share-link instagram"
-          href="https://www.instagram.com/mariaescribe/"
+          href="https://www.instagram.com/dgmichaelg/"
           target="blank"
           translate="no"
         >
           <i class="fab fa-instagram mr-2"></i>Instagram
         </a>
       </li>
-      <li class="list-inline-item">
+      <!-- <li class="list-inline-item">
         <a
           class="reset-anchor social-share-link linkedin"
           href="https://www.linkedin.com/in/mariaescribe/"
@@ -33,11 +33,11 @@
         >
           <i class="fab fa-linkedin mr-2"></i>LinkedIn
         </a>
-      </li>
+      </li> -->
       <li class="list-inline-item">
         <a
           class="reset-anchor social-share-link behance"
-          href="https://www.behance.net/mariaescribe"
+          href="https://www.behance.net/dgmichaelgcd12/projects"
           target="blank"
           translate="no"
         >
@@ -47,9 +47,9 @@
       <li class="list-inline-item">
         <a
           class="reset-anchor social-share-link envelope"
-          href="mailto:mariaescribemails@gmail.com"
+          href="mailto:dgmichaelg@gmail.com"
         >
-          <i class="fas fa-envelope mr-2"></i>Mail
+          <i class="fas fa-envelope mr-2"></i>Correo
         </a>
       </li>
     </ul>

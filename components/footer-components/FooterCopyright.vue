@@ -7,13 +7,13 @@
             <div class="col-md-6 text-center text-md-left">
               <p class="text-small mb-3 mb-md-0">
                 <span class="text-muted"
-                  >© All rights reserved - mariaescribe.</span
+                  >© Todos los derechos reservados - MichaelGDesign.</span
                 >
               </p>
             </div>
             <div class="col-md-6 text-center text-md-right">
               <p class="text-small mb-0">
-                <span class="text-muted">Template designed by </span
+                <span class="text-muted">Plantilla diseñada por </span
                 ><a
                   href="https://bootstraptemple.com/p/minimal-bootstrap-creative-portfolio"
                   class="reset-anchor"
@@ -22,7 +22,7 @@
                 >
               </p>
               <p class="text-small mb-0">
-                <span class="text-muted">Site developed by </span
+                <span class="text-muted">Sitio desarrollado por </span
                 ><a
                   href="https://welikeperas.com"
                   class="reset-anchor"

@@ -1,14 +1,14 @@
 <template>
   <div class="col-lg-4 mb-4 mb-lg-0">
-    <h2 class="h4 text-white mb-4">About me</h2>
+    <h2 class="h4 text-white mb-4">Sobre mí</h2>
 
     <nuxt-content class="text-small" :document="aboutmeText"></nuxt-content>
 
     <ul class="list-unstyled text-small mb-0 text-white">
       <li class="mb-1">
-        <a class="reset-anchor" href="mailto:mariaescribemails@gmail.com">
+        <a class="reset-anchor" href="mailto:dgmichaelg@gmail.com">
           <i class="fas fa-envelope text-muted mr-2 fa-fw"></i
-          >mariaescribemails@gmail.com
+          >dgmichaelg@gmail.com
         </a>
       </li>
     </ul>
