@@ -34,7 +34,7 @@ export default {
   },
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'Mariaescribe | Portfolio',
+    title: 'MichaelGDesign | Portafolio',
     htmlAttrs: {
       lang: 'en',
     },
@@ -50,7 +50,7 @@ export default {
       { name: 'format-detection', content: 'telephone=no' },
       {
         property: 'og:image',
-        content: 'https://ovirex.github.io/maria-portfolio/img/LOGO.png',
+        content: '',
       },
       {
         property: 'og:image:width',
@@ -69,7 +69,7 @@ export default {
       {
         rel: 'icon',
         type: 'image/x-icon',
-        href: '/favicon.ico',
+        href: '',
       },
       {
         rel: 'preconnect',
